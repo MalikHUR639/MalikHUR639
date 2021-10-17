@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikhur639" alt="malikhur639" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Model**
+- 🔭 I’m currently working on **Machine Learning Model-Predict cancellation of hotel booking**
 
 - 🌱 I’m currently learning **power BI tools**
 
 - 👯 I’m looking to collaborate on **Full stack, Data Science Projects**
 
-- 💬 Ask me about **react.js, python, data visualization**
+- 💬 Ask me about **react.js, python, data visualization, C++, C, Linux**
 
 - 📫 How to reach me **ghulamhur011@gmail.com**
 
