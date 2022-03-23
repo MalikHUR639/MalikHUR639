@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikhur639" alt="malikhur639" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Model-Predict cancellation of hotel booking**
+- 🔭 I’m currently working on **MERN STACK APP**
 
-- 🌱 I’m currently learning **power BI tools**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Full stack, Data Science Projects**
 
